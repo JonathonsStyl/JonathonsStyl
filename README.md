@@ -1,4 +1,4 @@
-# Hi there, I'm Ioannis Stylos 👋
+# Hi there, I'm I. Stylos 👋
 
 **Full-Stack Developer | Quality Assurance Engineer | AI-Assisted Coder**
 
